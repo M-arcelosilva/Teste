@@ -7,7 +7,7 @@ esse é um subtitulo
 ## subsubtitulo
 esse é um subsubtitulo
 
-**isso esta´escrito em negrito**
+**isso está escrito em negrito**
 
 - Essa é uma lista
 - Essa é a segunda linha da minha lista
